@@ -1,0 +1,37 @@
+Age,YearsExperience,Salary,Gender,Classification,Job
+22,"1,1",39343,Female,Low,Assistant
+22,"1,3",46205,Male,TOP,Professor
+23,"1,5",37731,Female,TOP,Administrative
+24,2,43525,Female,Medium,Assistant
+25,"2,2",39891,Male,Medium,Professor
+26,"2,9",56642,Male,Medium,Assistant
+27,3,60150,Male,Low,Assistant
+29,"3,2",54445,Female,Medium,Professor
+31,"3,2",64445,Female,TOP,Professor
+29,"3,7",57189,Male,TOP,Professor
+35,"3,9",63218,Male,Low,Administrative
+31,4,55794,Female,Medium,Professor
+38,4,56957,Male,Low,Assistant
+39,"4,1",57081,Female,Low,Assistant
+37,"4,5",61111,Female,Medium,Assistant
+29,"4,9",67938,Male,TOP,Assistant
+35,"5,1",66029,Female,Medium,Professor
+29,"5,3",83088,Female,Medium,Professor
+28,"5,9",81363,Male,Medium,Assistant
+34,6,93940,Male,Low,Administrative
+39,"6,8",91738,Male,Medium,Assistant
+41,"7,1",98273,Female,TOP,Assistant
+39,"7,9",101302,Female,TOP,Manager
+42,"8,2",113812,Male,Low,Manager
+40,"8,7",109431,Male,Medium,Manager
+41,9,105582,Female,Medium,Manager
+41,"9,5",116969,Male,Low,Manager
+37,"9,6",112635,Female,Low,Manager
+39,"10,3",122391,Female,Low,Senior Manager
+49,"10,5",121872,Female,Medium,Senior Manager
+41,9,105582,Female,TOP,Senior Manager
+41,"9,5",116969,Male,Low,Senior Manager
+41,9,105582,Female,Low,Senior Manager
+41,"9,5",116969,Female,Medium,Senior Manager
+37,"9,6",112635,Female,Medium,Senior Manager
+39,"10,3",122391,Female,Medium,Manager
